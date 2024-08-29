@@ -5,12 +5,15 @@
 }
 
 body {
-    height: 100vh;
-    text-align: center;
-    align-content: center;
     background-color: white;
     color: gray;
     font-family: "Montserrat", sans-serif;
+}
+
+#content {
+    height: 100vh;
+    text-align: center;
+    align-content: center;
 }
 
 h1, p {
