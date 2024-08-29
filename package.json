@@ -1,0 +1,13 @@
+{
+  "name": "github-codespaces-and-copilot-study",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "serve": "http-server -p 3000 -o"
+  },
+  "author": "Mizuki901",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
